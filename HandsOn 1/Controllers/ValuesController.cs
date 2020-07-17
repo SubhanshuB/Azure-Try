@@ -16,7 +16,7 @@ namespace HandsOn_1.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1dsad", "value2" };
+            return new string[] { "value1dsafgdgd", "value2" };
         }
 
         // GET api/<ValuesController>/5
