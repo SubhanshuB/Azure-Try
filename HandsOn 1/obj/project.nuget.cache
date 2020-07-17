@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "ERMSB9IDBIJkjwehnmiTx5ahI6yYXsKte5SD0OwG9E828jlkmWEOXY1eVOGq7pw0xZOd27Npj9bKK2OWvQVaKQ==",
+  "dgSpecHash": "OkMM/CFzWwSgMp8Mt7PCEvuQ0Y3t7HkwNn6e3gYm3iHJA786A/gIT0FmXMqFhNLlRsneGD5G9k98F+4Uv/3LSA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Subhanshu\\source\\repos\\HandsOn 1\\HandsOn 1\\HandsOn 1.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Subhanshu\\.nuget\\packages\\microsoft.build.tasks.git\\1.0.0\\microsoft.build.tasks.git.1.0.0.nupkg.sha512",
     "C:\\Users\\Subhanshu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Subhanshu\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\Subhanshu\\.nuget\\packages\\microsoft.sourcelink.common\\1.0.0\\microsoft.sourcelink.common.1.0.0.nupkg.sha512",
+    "C:\\Users\\Subhanshu\\.nuget\\packages\\microsoft.sourcelink.github\\1.0.0\\microsoft.sourcelink.github.1.0.0.nupkg.sha512",
     "C:\\Users\\Subhanshu\\.nuget\\packages\\swashbuckle.aspnetcore\\5.4.1\\swashbuckle.aspnetcore.5.4.1.nupkg.sha512",
     "C:\\Users\\Subhanshu\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.4.1\\swashbuckle.aspnetcore.swagger.5.4.1.nupkg.sha512",
     "C:\\Users\\Subhanshu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.4.1\\swashbuckle.aspnetcore.swaggergen.5.4.1.nupkg.sha512",
